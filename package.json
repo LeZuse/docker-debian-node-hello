@@ -1,5 +1,5 @@
 {
-  "name": "docker-debian-node-hello-",
+  "name": "docker-debian-node-hello",
   "private": true,
   "version": "0.0.1",
   "description": "Node.js Hello World app on Debian using docker",
